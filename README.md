@@ -33,3 +33,6 @@ Aside from the fine-tuning, to compare the pre-trained and fine-tuned model dire
 * Vietnamese text: "Xử lý ngôn ngữ tự nhiên (NLP) muốn nói đến chi nhánh của khoa học máy tính và cụ thể hơn nữa, chi nhánh của trí tuệ nhân tạo hoặc AI đối xứng với việc cung cấp cho máy tính khả năng hiểu văn bản và ngôn ngữ nói theo cùng một cách mà con người có thể."
 
 * Back-translation: "Natural Language Processing (NLP) refers to the branch of computer science and more specifically, the branch of artificial intelligence or symmetric AI that provides computers with the ability to understand text and language. language spoken in the same way that humans can."
+
+# Conclusion:
+From this example, our fine-tuned model seems to be better at the given translation task. However, the higher performance can be achieved if more training data is used for fine-tuning the model.  
